@@ -1,1 +1,1 @@
-This document describes the implimentation details of MedVerify project.
+This document describes the implementation details of MedVerify project.
